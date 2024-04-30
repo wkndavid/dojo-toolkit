@@ -1,0 +1,186 @@
+{
+  "main": {
+    "id": "69ef2ac69196958c",
+    "type": "split",
+    "children": [
+      {
+        "id": "4ecef9816b6c455b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2f833ed011b74012",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Widgets/peculiadades_propiedades_dojo.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c645b5d628e204cb",
+    "type": "split",
+    "children": [
+      {
+        "id": "b9bf6a3a8c8af05b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "64df25d3e7493523",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "519947af70ac8e22",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8e35a8c2fd9b9fa0",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "right": {
+    "id": "918a41ebea830b06",
+    "type": "split",
+    "children": [
+      {
+        "id": "d18b9c11f6446d5f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e69d3cad8bffc1a8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Widgets/peculiadades_propiedades_dojo.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "23d221b255677c39",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Widgets/peculiadades_propiedades_dojo.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "fa0a9f2b2aa5272d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "0c153782f7e0a68b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Widgets/peculiadades_propiedades_dojo.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "2f833ed011b74012",
+  "lastOpenFiles": [
+    "Widgets/Polyfills.md",
+    "Widgets/postMixinProperties.md",
+    "Widgets/peculiadades_propiedades_dojo.md",
+    "Widgets/widget_config.md",
+    "Widgets/CreatingWidget.pdf",
+    "Warnings/Warnings.md",
+    "2024-04-30.md",
+    "Untitled 1.canvas",
+    "Untitled.canvas",
+    "Dijit/Attach Mixin.md",
+    "Widgets/containerNode.md",
+    "improve-search-based-on-coordinates/CreatingWidget.md",
+    "Dijit",
+    "widgets/Untitled.md",
+    "Warnings",
+    "2024-04-23.md",
+    "Untitled 1.md",
+    "2024-04-19.md",
+    "Widgets",
+    "improve-search-based-on-coordinates/zoomCoordinates.md",
+    "zoomCoordinates",
+    "features/feature.md",
+    "improve-search-based-on-coordinates",
+    "features/otherNote.md",
+    "features/newNote.md",
+    "features",
+    "Untitled 2.md",
+    "Untitled 3.md",
+    "2024-01-02.md",
+    "2024-04-12.md",
+    "featureLayer.md",
+    "Untitled 4.md"
+  ]
+}
